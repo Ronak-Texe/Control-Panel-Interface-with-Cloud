@@ -1,0 +1,8 @@
+Device Number	Device Type	Time of Request	Temperature	Device Alert	Device Status	Device Path	Route Signal Strength
+1		Contact Sensor		15:57		23	DEACTIVATED	['Normal']	1-5-2		-65.0/-92.0/-93.5
+2		Contact Sensor		15:57		22	DEACTIVATED	['Normal']	2-0-0		None/None/-81.5
+3		Contact Sensor		15:57		24	DEACTIVATED	['Normal']	3-0-0		None/None/-49.5
+4		PIR Sensor		15:57		21	DEACTIVATED	['Normal']	4-2-0		-82.0/None/-94.5
+5		Contact Sensor		15:57		24	ACTIVATED	['Normal']	5-2-0		-88.0/None/-93.0
+6		PIR Sensor		15:57		0	DEACTIVATED	['Normal']	6-2-0		None/None/-85.5
+7		PIR Sensor		15:57		24	DEACTIVATED	['Normal']	7-5-2		-62.0/-86.0/-90.0

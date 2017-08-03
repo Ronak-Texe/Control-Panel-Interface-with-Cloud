@@ -13,7 +13,7 @@ def sendReceiver(request_code,number):
         if ser.isOpen():
             print("\n",ser.name + ' is open')
         received_data=[]
-        cmd = input("Enter any command to continue: ")
+        #cmd = input("Enter any command to continue: ")
         #bitmap=[0x43,0x01]
         bits=bytearray(request_code)
         ser.write(bits)
